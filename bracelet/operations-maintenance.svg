@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9.06549 29.435C8.65182 29.9093 8.14459 30.293 7.57564 30.562C7.00668 30.8311 6.38826 30.9796 5.75918 30.9984C5.1301 31.0172 4.50392 30.9058 3.91993 30.6711C3.33593 30.4365 2.80672 30.0837 2.36549 29.635C1.9167 29.1937 1.56393 28.6645 1.3293 28.0805C1.09467 27.4965 0.983255 26.8704 1.00203 26.2413C1.02081 25.6122 1.16938 24.9938 1.43843 24.4248C1.70747 23.8559 2.09118 23.3486 2.56549 22.935L15.4265 11.774C15.1085 10.5671 15.0404 9.30803 15.2265 8.07395C15.528 6.62256 16.2471 5.29091 17.2953 4.24271C18.3435 3.19451 19.6751 2.47546 21.1265 2.17395C22.3535 1.88447 23.6379 1.95389 24.8265 2.37395L20.8265 6.37395L25.6265 11.174L29.6265 7.17395C30.0466 8.3626 30.116 9.64696 29.8265 10.874C29.5575 12.3397 28.8491 13.689 27.7953 14.7428C26.7415 15.7965 25.3923 16.5049 23.9265 16.774" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M18 29C20.2091 29 22 27.2091 22 25C22 22.7909 20.2091 21 18 21C15.7909 21 14 22.7909 14 25C14 27.2091 15.7909 29 18 29Z" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M18 21V19" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M20.8281 22.1721L22.2431 20.7571" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M22 25H24" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M20.8281 27.8279L22.2431 29.2429" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M18 29V31" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M15.1728 27.8279L13.7578 29.2429" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M14 25H12" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+  <path d="M15.1728 22.1721L13.7578 20.7571" stroke="#54747E" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+</svg>
