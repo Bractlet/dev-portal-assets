@@ -1,0 +1,115 @@
+name,label,definition,version
+Water_Heater,Water Heater,,bractlet
+Heat_Pump,Heat Pump,,bractlet
+DX_Unit,DX Unit,,bractlet
+AC,AC,,bractlet
+Electrical_System,Electrical System,,1.1
+Emergency_Power_Off_System,Emergency Power Off System,,1.1
+Energy_Storage,Energy Storage,,1.1
+Battery,Battery,,1.1
+Inverter,Inverter,,1.1
+PlugStrip,PlugStrip,,1.1
+Elevator,Elevator,,1.1
+Fire_Safety_System,Fire Safety System,,1.1
+FCP,FCP,,1.1
+Fire_Control_Panel,Fire Control Panel,,1.1
+Furniture,Furniture,,1.1
+HVAC,HVAC,,1.1
+AHU,AHU,,1.1
+RTU,RTU,,1.1
+Rooftop_Unit,Rooftop Unit,,1.1
+Air_Handler_Unit,Air Handler Unit,"Assembly consisting of sections containing a fan or fans and other necessary equipment to perform one or more of the following functions: circulating, filtration, heating, cooling, heat recovery, humidifying, dehumidifying, and mixing of air. Is usually connected to an air-distribution system.",1.1
+Boiler,Boiler,"A closed, pressure vessel that uses fuel or electricity for heating water or other fluids to supply steam or hot water for heating, humidification, or other applications.",1.1
+CRAC,CRAC,,1.1
+Standby_CRAC,Standby CRAC,,1.1
+Chiller,Chiller,,1.1
+Absorption_Chiller,Absorption Chiller,,1.1
+Centrifugal_Chiller,Centrifugal Chiller,,1.1
+Coil,Coil,Exchanger that transfers heat from an exhaust airstream to a separated supply airstream.,1.1
+Cooling_Coil,Cooling Coil,,1.1
+Heating_Coil,Heating Coil,,1.1
+Compressor,Compressor,"(1) device for mechanically increasing the pressure of a gas. (2) often described as being either open, hermetic, or semihermetic to describe how the compressor and motor drive is situated in relation to the gas or vapor being compressed. Types include centrifugal, axial flow, reciprocating, rotary screw, rotary vane, scroll, or diaphragm. 1. device for mechanically increasing the pressure of a gas. 2. specific machine, with or without accessories, for compressing refrigerant vapor.",1.1
+Computer_Room_Air_Conditioning,Computer Room Air Conditioning,"A device that monitors and maintains the temperature, air distribution and humidity in a network room or data center. ",1.1
+Condenser,Condenser,A heat exchanger in which the primary heat transfer vapor changes its state to a liquid phase.,1.1
+Damper,Damper,Element inserted into an air-distribution system or element of an air-distribution system permitting modification of the air resistance of the system and consequently changing the airflow rate or shutting off the airflow.,1.1
+Economizer_Damper,Economizer Damper,,1.1
+Exhaust_Damper,Exhaust Damper,,1.1
+Outside_Damper,Outside Damper,,1.1
+Return_Damper,Return Damper,,1.1
+Economizer,Economizer,"Device that, on proper variable sensing, initiates control signals or actions to conserve energy. A control system that reduces the mechanical heating and cooling requirement.",1.1
+Fan,Fan,"Any device with two or more blades or vanes attached to a rotating shaft used to produce an airflow for the purpose of comfort, ventilation, exhaust, heating, cooling, or any other gaseous transport.",1.1
+Cooling_Tower_Fan,Cooling Tower Fan,,1.1
+Discharge_Fan,Discharge Fan,,1.1
+Exhaust_Fan,Exhaust Fan,,1.1
+Return_Fan,Return Fan,,1.1
+Standby_Fan,Standby Fan,,1.1
+Supply_Fan,Supply Fan,,1.1
+Booster_Fan,Booster Fan,,1.1
+Filter,Filter,Device to remove gases from a mixture of gases,1.1
+Mixed_Air_Filter,Mixed Air Filter,,1.1
+Fume_Hood,Fume Hood,"A fume-collection device mounted over a work space, table, or shelf and serving to conduct unwanted gases away from the area enclosed.",1.1
+HX,HX,,1.1
+Heat_Exchanger,Heat Exchanger,,1.1
+Condenser_Heat_Exchanger,Condenser Heat Exchanger,,1.1
+Evaporative_Heat_Exchanger,Evaporative Heat Exchanger,,1.1
+Humidifier,Humidifier,,1.1
+Pump,Pump,"Machine for imparting energy to a fluid, causing it to do work, drawing a fluid into itself through an entrance port, and forcing the fluid out through an exhaust port.",1.1
+Water_Pump,Water Pump,,1.1
+Chilled_Water_Pump,Chilled Water Pump,,1.1
+Condenser_Water_Pump,Condenser Water Pump,,1.1
+Hot_Water_Pump,Hot Water Pump,,1.1
+Space_Heater,Space Heater,"A heater used to warm the air in an enclosed area, such as a room or office",1.1
+Terminal_Unit,Terminal Unit,A device that regulates the volumetric flow rate and/or the temperature of the controlled medium.,1.1
+FCU,FCU,,1.1
+Fan_Coil_Unit,Fan Coil Unit,,1.1
+VAV,VAV,,1.1
+Variable_Air_Volume_Box,Variable Air Volume Box,,1.1
+RVAV,RVAV,,1.1
+Variable_Air_Volume_Box_With_Reheat,Variable Air Volume Box With Reheat,,1.1
+Thermostat,Thermostat,An automatic control device used to maintain temperature at a fixed or adjustable setpoint.,1.1
+VFD,VFD,,1.1
+Heat_Wheel_VFD,Heat Wheel VFD,,1.1
+Preheat_Valve_VFD,Preheat Valve VFD,,1.1
+Valve,Valve,,1.1
+Cooling_Valve,Cooling Valve,,1.1
+Heating_Valve,Heating Valve,,1.1
+Domestic_Hot_Water_Valve,Domestic Hot Water Valve,,1.1
+Preheat_Hot_Water_Valve,Preheat Hot Water Valve,,1.1
+Reheat_Valve,Reheat Valve,,1.1
+Return_Heating_Valve,Return Heating Valve,A valve installed on the return side of a heat exchanger,1.1
+Isolation_Valve,Isolation Valve,,1.1
+Water_Valve,Water Valve,,1.1
+Chilled_Water_Valve,Chilled Water Valve,,1.1
+Variable_Frequency_Drive,Variable Frequency Drive,"Electronic device that varies its output frequency to vary the rotating speed of a motor, given a fixed input frequency. Used with fans or pumps to vary the flow in the system as a function of a maintained pressure.",1.1
+Heating_Ventilation_Air_Conditioning_System,Heating Ventilation Air Conditioning System,,1.1
+Lighting_System,Lighting System,,1.1
+Interface,Interface,,1.1
+Switch,Switch,,1.1
+Dimmer,Dimmer,,1.1
+Touchpanel,Touchpanel,,1.1
+Lighting,Lighting,,1.1
+Luminaire,Luminaire,,1.1
+Luminaire_Driver,Luminaire Driver,,1.1
+Meter,Meter,,1.1
+Building_Meter,Building Meter,,1.1
+Building_Chilled_Water_Meter,Building Chilled Water Meter,,1.1
+Building_Electrical_Meter,Building Electrical Meter,,1.1
+Building_Gas_Meter,Building Gas Meter,,1.1
+Building_Hot_Water_Meter,Building Hot Water Meter,,1.1
+Building_Water_Meter,Building Water Meter,,1.1
+Electrical_Meter,Electrical Meter,,1.1
+Gas_Meter,Gas Meter,,1.1
+Water_Meter,Water Meter,,1.1
+Chilled_Water_Meter,Chilled Water Meter,,1.1
+Hot_Water_Meter,Hot Water Meter,,1.1
+Shading_System,Shading System,,1.1
+Louver,Louver,,1.1
+Solar_Panel,Solar Panel,,1.1
+Steam_System,Steam System,,1.1
+Water_System,Water System,,1.1
+CWS,CWS,,1.1
+Chilled_Water_System,Chilled Water System,,1.1
+HWS,HWS,,1.1
+Hot_Water_System,Hot Water System,,1.1
+Domestic_Hot_Water_System,Domestic Hot Water System,,1.1
+Weather,Weather,,1.1
